@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on PUNKY</title>
+    <link>https://sarababe.github.io/tags/</link>
+    <description>Recent content in tags on PUNKY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sarababe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archive</title>
+      <link>https://sarababe.github.io/tags/archive/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarababe.github.io/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspo</title>
+      <link>https://sarababe.github.io/tags/inspo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarababe.github.io/tags/inspo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>runway</title>
+      <link>https://sarababe.github.io/tags/runway/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarababe.github.io/tags/runway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://sarababe.github.io/tags/work/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarababe.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tendenzestate23</title>
+      <link>https://sarababe.github.io/tags/tendenzestate23/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarababe.github.io/tags/tendenzestate23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

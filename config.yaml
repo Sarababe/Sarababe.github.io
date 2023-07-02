@@ -1,4 +1,5 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://sarababe.github.io
+publishDir: "docs"
 title: PUNKY # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
