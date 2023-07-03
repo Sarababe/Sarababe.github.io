@@ -11,5 +11,4 @@ tags:
 ---
 
 ## insta models 
-
- amanti dell'hardcore e delle passarelle prendete il mio consiglio e iniziate a seguire la bellissima Gabriette.
+amanti dell'hardcore e delle passarelle prendete il mio consiglio e iniziate a seguire la bellissima Gabriette.
