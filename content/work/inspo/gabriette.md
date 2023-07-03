@@ -2,7 +2,7 @@
 weight: 2
 images:
 - /images/gabriette.png
-title: gabriette nuova icona punk
+title: gabriette
 date: 2022-07-23
 tags:
 - work # homepage
@@ -11,4 +11,5 @@ tags:
 ---
 
 ## insta models 
- oggi vi consigliamo gabriette, se siete amanti dell'hardcore, la amerete di sicuro con i suoi outfit unici e da non sottovalutare, inoltre nel suo account non si limita a mettere sue foto ma posta video di cucina unici. 
+
+ amanti dell'hardcore e delle passarelle prendete il mio consiglio e iniziate a seguire la bellissima Gabriette.

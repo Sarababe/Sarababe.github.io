@@ -11,5 +11,6 @@ tags:
 ---
 
 ## hippye vibes
- la amano tutte le stagioni, non se ne può fare a meno e l'abbiamo indossata tutti almeno una volta, le gonne lunghe ci seguono dagli anni 80, arrivate insieme allo stile crunge o hippye, vengono indossate da giovani e adulti per avere un outfit comodo nelle occasioni casual.
+
+    la amano tutte le stagioni, non se ne può fare a meno e l'abbiamo indossata tutti almeno una volta, le gonne lunghe ci seguono dagli anni 80, arrivate insieme allo stile crunge o hippye, vengono indossate da giovani e adulti per avere un outfit comodo nelle occasioni casual.
 

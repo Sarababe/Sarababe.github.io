@@ -9,6 +9,6 @@ tags:
 - inspo
 ---
 
-"Chi indossa un passamontagna se non è nell'Artico o non pianifica una rapina?"
+### "Chi indossa un passamontagna se non è nell'Artico o non pianifica una rapina?"
 
-è cio che più o meno abbiamo pensato quando questo accessorio, che sicuro non avevamo mai visto prima in giro per le strade. tuttavia con la diffusione del crochetting è arrivato anche il balclava, fatto la maggiorparte delle volte per l'appunto con questo metodo di cucito, realizzayo ovvero con dei fili spessi che rendono l'outfit unico.
+    è cio che più o meno abbiamo pensato quando questo accessorio, che sicuro non avevamo mai visto prima in giro per le strade. l'arte del crochetting, ovvero della cucitura a maglia ha spopolato molto in questo periodo, dando vita a nuovi stili di vestire, che siano balavlava o vestiti estivi, le cuciture con filo spesso e bucherellato  ormai entrato al centro dell'attenzione, perfino di grnadi modelli stilistici.
